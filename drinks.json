@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name":"Ghost Pink Lemonade",
+    "kmo":9.8,
+    "jron":9.2
+  },
+  {
+    "name":"Monster Ultra White",
+    "kmo":9.0,
+    "jron":9.5
+  },
+  {
+    "name":"C4 Hawaiian Punch",
+    "kmo":8.5,
+    "jron":8.8
+  }
+]
